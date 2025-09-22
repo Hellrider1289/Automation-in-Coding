@@ -1,0 +1,5 @@
+.venv/
+seed_db.py
+__pycache__/
+*.pyo
+*.pyc

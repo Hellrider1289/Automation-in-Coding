@@ -1,0 +1,20 @@
+[
+  {
+    "prompt": "Write a Python program to print the Fibonacci series up to 10 terms.",
+    "language": "python",
+    "difficulty": "easy",
+    "created_at": "2025-09-18T10:00:00Z"
+  },
+  {
+    "prompt": "Write a Java program to check whether a number is prime or not.",
+    "language": "java",
+    "difficulty": "medium",
+    "created_at": "2025-09-18T10:05:00Z"
+  },
+  {
+    "prompt": "Write a C program to find the factorial of a number using recursion.",
+    "language": "c",
+    "difficulty": "medium",
+    "created_at": "2025-09-18T10:10:00Z"
+  }
+]
